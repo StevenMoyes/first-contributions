@@ -14,6 +14,7 @@
 - [Enzo Moreno Baraldi](https://github.com/Enzo1603)
 - [Guillermo Velázquez Falcone](https://github.com/guilleVF)
 - Kassra-K
+- [Steve Moyes] (https://github.com/StevenMoyes)
 - [Joshua Silvernale] (https://github.com/jsilvernale)
 - [Chirag Vadhavana](https://github.com/Ckm54)
 - [Collins Kiplangat](https://github.com/chiragvadhavana)
